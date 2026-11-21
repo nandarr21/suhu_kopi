@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Cache Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Pengaturan editor 
+.vscode/
+.DS_Store
+Thumbs.db
